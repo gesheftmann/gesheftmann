@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adyl Bekov 👋</h1>
-<h3 align="center">A passionate junior backend developer fresh out of https://alatoo.edu.kg/ky/university-entrance/ 🎓</h3>
+<h3 align="center">A passionate junior backend developer fresh out of Ala-Too International University/ 🎓</h3>
 
 ---
 
