@@ -8,7 +8,7 @@
 - 🔭 I’m currently looking for my first full-time role as a Python Backend Engineer.
 - 🌱 I’m actively continuing my education and honing my skills in backend architecture.
 - 👯 I’m looking to collaborate on open-source projects to gain real-world experience.
-- 📫 How to reach me: **adylbekov874@gmail.com/telegram:gesheftmann**
+- 📫 How to reach me: **adylbekov874@gmail.com/https://telegram.me/Gesheftmann**
 
 ---
 
