@@ -11,9 +11,9 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently looking for my first full-time role as a Software Engineer.
-- 🌱 I’m actively continuing my education and honing my skills in **[Твой основной язык, например: Python / TypeScript]**.
+- 🌱 I’m actively continuing my education and honing my skills in **Python / TypeScript**.
 - 👯 I’m looking to collaborate on open-source projects to gain real-world experience.
-- 📫 How to reach me: **[Ссылка на твой Telegram / Твой Email]**
+- 📫 How to reach me: **adylbekov874@gmail.com/https://telegram.me/Gesheftmann**
 - ⚡ Fun fact: When I'm not coding, you can usually find me watching UFC, playing a quick game of chess, or studying Japanese so I can read visual novels in their original language.
 
 ---
