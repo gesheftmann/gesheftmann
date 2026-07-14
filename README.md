@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Adyl Bekov 👋</h1>
+<h1 align="center">Hi, I'm Adyl Bekov 👋</h1>
 <h3 align="center">A passionate junior backend developer fresh out of Ala-Too International University 🎓</h3>
 
 ---
